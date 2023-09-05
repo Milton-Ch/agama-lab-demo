@@ -12,6 +12,9 @@
         "tags": [
             "jans"
         ],
-        "noDirectLaunch": []
+        "noDirectLaunch": [],
+        "configs": {
+            "Milton-Ch.co.acme.password": {}
+        }
     }
 }
