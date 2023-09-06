@@ -15,7 +15,8 @@
         "noDirectLaunch": [],
         "configs": {
             "Milton-Ch.co.acme.password": {},
-            "Milton-Ch.info.gluu.neutral-drake": {}
+            "Milton-Ch.info.gluu.neutral-drake": {},
+            "": {}
         }
     }
 }
