@@ -17,6 +17,7 @@
             "Milton-Ch.co.acme.password": {},
             "Milton-Ch.info.gluu.neutral-drake": {},
             "": {}
-        }
+        },
+        "name": "agama-demo"
     }
 }
